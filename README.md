@@ -136,3 +136,11 @@ encrypt your-email@example.com backup.tar.gz
 ## License
 
 See [LICENSE](LICENSE) for details.
+## Support the Project
+
+You can donate using Monero (XMR)
+
+**Monero Address:** 
+```
+8AGHjrStt9EWEzKao7nvZNEGUHMHjWcJeWXts4wJsaog4eiE5Az4g2UjddiMLHLF6WPrKG2XT5rhcHrqqjTeedSo1RJZhNj
+```
