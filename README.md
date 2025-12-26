@@ -15,6 +15,8 @@ To make it permanent, add this line to your `~/.bashrc` or `~/.zshrc`:
 source /path/to/gpg-shell.sh
 ```
 
+Or, copy the contents of `gpg-shell.sh` to your `~/.bashrc` or `~/.zshrc`.
+
 ## Prerequisites
 
 - GPG (GnuPG) must be installed on your system
