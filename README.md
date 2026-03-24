@@ -146,3 +146,7 @@ You can donate using Monero (XMR)
 ```
 8AGHjrStt9EWEzKao7nvZNEGUHMHjWcJeWXts4wJsaog4eiE5Az4g2UjddiMLHLF6WPrKG2XT5rhcHrqqjTeedSo1RJZhNj
 ```
+
+## Join the discussion
+
+Matrix: https://matrix.to/#/#frontier:rxve.net
